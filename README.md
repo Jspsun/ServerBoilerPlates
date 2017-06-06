@@ -1,4 +1,4 @@
-# Jonatan's Boilerplate Emporium
+# Jonathan's Boilerplate Emporium
 
 Just a few boilerplates for different types of servers and the related clients
 
@@ -9,7 +9,7 @@ Just a few boilerplates for different types of servers and the related clients
 - Express
   - Server for REST API
   - Server for String Queries
-  - [ ] Server for REST Interactions
+  - [ ] Client for REST Interactions
   - Client for String Queries
 
 - Flask
