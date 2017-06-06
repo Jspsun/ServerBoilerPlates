@@ -9,14 +9,14 @@ Just a few boilerplates for different types of servers and the related clients
 - Express
   - Server for REST API
   - Server for String Queries
-  - [ ] Client for REST Interactions
+  - Client for REST Interactions
   - Client for String Queries
 
 - Flask
   - Server for REST API
-  - [ ] Server for String Queries
+  - [ ] Server for String Queries (in progress)
   - Client for REST Interactions
-  - [ ] Client for String Queries
+  - [ ] Client for String Queries (in progress)
 
 ---
 

@@ -9,7 +9,7 @@ app.post('/', function (request, response) {
 
   // function goes here and just return what you need
   const b = request.body;
-
+  console.log(b);
   var results = {
     message : b.message
   };
