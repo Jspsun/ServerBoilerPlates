@@ -1,0 +1,24 @@
+{
+  "name": "restserver",
+  "version": "1.0.0",
+  "description": "## to use:",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jspsun/SenderServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jspsun/SenderServer/issues"
+  },
+  "homepage": "https://github.com/Jspsun/SenderServer#readme"
+}
