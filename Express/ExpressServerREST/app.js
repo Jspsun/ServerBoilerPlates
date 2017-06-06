@@ -6,10 +6,14 @@ var app = express();
 app.use(bodyParser.json());
 
 app.post('/', function (request, response) {
-  // const b = JSON.stringify(request.body);
-  const b = request.body
-  sender.send(b.command, b.text, b.id);
-  response.sendStatus(200);
+
+  // function goes here and just return what you need
+  const b = request.body;
+
+  var results = {
+    message : b.message
+  };
+  response.status(200).json(results);
 });
 
-app.listen (process.env.PORT || 1337);
+app.listen(process.env.PORT || 1337);
